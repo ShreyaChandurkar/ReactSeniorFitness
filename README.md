@@ -1,2 +1,3 @@
 # SeniorFitness
-![about](https://user-images.githubusercontent.com/132133982/236678521-f81601a9-c30e-457a-9324-65e21f84fc11.png)
+
+![home1](https://user-images.githubusercontent.com/132133982/236678648-ffd0259d-8ccd-4df3-97a3-7d7db6812a96.png)
