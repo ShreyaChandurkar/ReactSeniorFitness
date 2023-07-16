@@ -1,7 +1,6 @@
 # SeniorFitness
-Hello,
 
-My name is Shreya Chandurkar and I am a student from the MCA department. I am pleased to announce that I have created a React Exercise website specifically for seniors aged 65 and over. This website allows them to subscribe to the plans for exercises that they prefer and includes some yoga postures with descriptions, making it easy for them to do exercise at home.
+I have created a React Exercise website specifically for seniors aged 65 and over. This website allows them to subscribe to the plans for exercises that they prefer and includes some yoga postures with descriptions, making it easy for them to do exercise at home.
 
 I have designed the website with the unique needs and abilities of seniors in mind. To accommodate those with limited mobility or physical limitations, the site also includes low-impact exercises that are safe and appropriate for seniors.
 
