@@ -31,3 +31,11 @@ My motivation for creating this website was to provide a platform that would be 
 
 
 ![footer](https://user-images.githubusercontent.com/132133982/236678876-21114918-931f-4d45-980d-b372933189b8.png)
+
+
+
+Demo video-
+
+
+https://github.com/ShreyaChandurkar/ReactSeniorFitness/assets/132133982/d86a5dfe-afea-4236-91c0-b337b9f303ad
+
